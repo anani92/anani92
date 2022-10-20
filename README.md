@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Abdulrahman
-#### I am full-stack developer
 ![I am full-stack developer](anani.website)
 
 
