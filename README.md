@@ -2,7 +2,7 @@
 ### I am full-stack developer
 
 
-I am a self-taught Software Engineer who fell in love with coding! I enjoy learning new technologies. I came from a non-traditional background. I studied law in Egypt. I have experience in business, and Law enforcement. 
+I am a self-taught software developer who fell in love with coding! I enjoy learning new technologies. I came from a non-traditional background. I studied law in Egypt. I have experience in business, and Law enforcement. 
 
 My interest in computer science started when I was a kid. after trying so many things in life, nothing could satisfy me and I wanted something that I really enjoy doing, My curiosity led me to read more about programming as I naturally had the intution for the computers and softwares so I knew at somepoint that programming is for me. I started taking online programming courses, and I was fascinated by how coding can teach me to think, to be creative, and to go beyond my imagination. 
 
