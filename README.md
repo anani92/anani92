@@ -12,9 +12,8 @@ After teaching myself to code for a year, I decided to join Coding Dojo bootcamp
 Skills: JAVA, Python/Django/Flask, JS/Node JS / REACT / REDUX / HTML / CSS MONGODB/MYSQL/POSTGRESQL
 
 - 🔭 I’m currently working on E-commerce website
-- 🌱 I’m currently learning  Java Spring boot 
 - 📫 How to reach me: email: abood.anai57@gmail.com 
 - linkedIn: Abdulrahman Anani
-- 😄 Pronouns: he/him 
+
 
 
